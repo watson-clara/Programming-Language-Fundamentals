@@ -1,9 +1,9 @@
 ######################################### 	
-#    CS 381 - Programming Lab #1		#
-#										#
-#  < SOLUTION >							#
-#  < watsoncl@oregonstate.edu>					#
-#										#
+#    CS 381 - Programming Lab #1	#
+#					#
+#  < SOLUTION >				#
+#  < @oregonstate.edu>			#
+#					#
 #########################################
 my $name = "Clara Watson";
 
